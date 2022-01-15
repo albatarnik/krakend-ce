@@ -60,7 +60,7 @@ update_krakend_deps:
 	go get github.com/devopsfaith/krakend-flexibleconfig@v1.4.0
 	go get github.com/devopsfaith/krakend-gelf@v1.4.0
 	go get github.com/devopsfaith/krakend-gologging@v1.4.0
-	go get github.com/devopsfaith/krakend-httpcache@v1.4.0
+	go get github.com/albatarnik/krakend-httpcache@v1.5.0
 	go get github.com/devopsfaith/krakend-httpsecure@v1.4.0
 	go get github.com/devopsfaith/krakend-influx@v1.4.0
 	go get github.com/devopsfaith/krakend-jose@v1.4.0
