@@ -34,11 +34,10 @@ require (
 	github.com/devopsfaith/krakend-xml v1.4.0
 	github.com/gin-gonic/gin v1.7.2
 	github.com/go-contrib/uuid v1.2.0
-	github.com/google/btree v1.0.0 // indirect
-	github.com/albatarnik/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
-	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 // indirect
-	github.com/hashicorp/consul v1.6.10 // indirect
-	github.com/hashicorp/vault v1.6.0 // indirect
+	github.com/go-test/deep v1.0.7 // indirect
+	github.com/hashicorp/consul/api v1.4.0 // indirect
+	github.com/hashicorp/vault/api v1.0.5-0.20201001211907-38d91b749c77 // indirect
+	github.com/hashicorp/vault/sdk v0.1.14-0.20201109203410-5e6e24692b32 // indirect
 	github.com/influxdata/influxdb v1.7.4 // indirect
 	github.com/kpacha/opencensus-influxdb v0.0.0-20181102202715-663e2683a27c // indirect
 	github.com/luraproject/lura v1.4.1
