@@ -4,6 +4,7 @@ go 1.12
 
 require (
 	github.com/Azure/go-autorest/autorest v0.11.12 // indirect
+	github.com/albatarnik/krakend-httpcache v1.5.4
 	github.com/catalinc/hashcash v0.0.0-20161205220751-e6bc29ff4de9 // indirect
 	github.com/clbanning/mxj v1.8.4 // indirect
 	github.com/codegangsta/negroni v1.0.0 // indirect
@@ -43,7 +44,6 @@ require (
 	github.com/devopsfaith/krakend-xml v1.4.0
 	github.com/gin-gonic/gin v1.7.2
 	github.com/go-contrib/uuid v1.2.0
-	github.com/google/btree v1.0.0 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 // indirect
 	github.com/hashicorp/consul v1.6.10 // indirect

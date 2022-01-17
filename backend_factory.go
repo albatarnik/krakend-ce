@@ -3,10 +3,10 @@ package krakend
 import (
 	"context"
 
+	httpcache "github.com/albatarnik/krakend-httpcache"
 	amqp "github.com/devopsfaith/krakend-amqp"
 	cel "github.com/devopsfaith/krakend-cel"
 	cb "github.com/devopsfaith/krakend-circuitbreaker/gobreaker/proxy"
-	httpcache "github.com/devopsfaith/krakend-httpcache"
 	lambda "github.com/devopsfaith/krakend-lambda"
 	lua "github.com/devopsfaith/krakend-lua/proxy"
 	martian "github.com/devopsfaith/krakend-martian"
